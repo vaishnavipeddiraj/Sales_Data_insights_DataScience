@@ -1,0 +1,4 @@
+USE ROLE accountadmin;
+DROP DATABASE IF EXISTS frostbyte_tasty_bytes_dev;
+DROP DATABASE IF EXISTS frostbyte_safegraph;
+DROP WAREHOUSE IF EXISTS tasty_dsci_wh;
